@@ -62,7 +62,7 @@
           <mxGeometry x="259" y="177" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-19" value="数据持久层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="312" width="280" height="60" as="geometry" />
+          <mxGeometry x="120" y="318" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-20" value="MySQL数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="80" height="20" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-21" value="&amp;nbsp;Redis缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="340" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yGHmsoEzZUXp4E6o5UlO-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yGHmsoEzZUXp4E6o5UlO-19">
+        <mxCell id="yGHmsoEzZUXp4E6o5UlO-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yGHmsoEzZUXp4E6o5UlO-19" target="yGHmsoEzZUXp4E6o5UlO-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="340" as="sourcePoint" />
             <mxPoint x="260" y="290" as="targetPoint" />
