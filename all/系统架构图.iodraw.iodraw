@@ -37,9 +37,6 @@
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-10" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yGHmsoEzZUXp4E6o5UlO-11" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-12" value="考试服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="230" width="50" height="20" as="geometry" />
         </mxCell>
@@ -52,7 +49,7 @@
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-15" value="消息服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="260" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yGHmsoEzZUXp4E6o5UlO-16" value="用户服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yGHmsoEzZUXp4E6o5UlO-16" value="认证服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="260" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
