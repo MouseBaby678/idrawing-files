@@ -10,6 +10,9 @@
         <mxCell id="CZoF9O_A0nI7Pi7XDCCi-2" value="核心框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="110" width="200" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="CZoF9O_A0nI7Pi7XDCCi-3" value="核心框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="200" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
