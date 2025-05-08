@@ -8,7 +8,7 @@
           <mxGeometry x="120" y="20" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-2" value="负载均衡层（Nginx）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="85" width="280" height="30" as="geometry" />
+          <mxGeometry x="120" y="82" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-4" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="259" y="51" width="50" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-6" value="API网关层（Spring Cloud Gateway）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="148" width="280" height="30" as="geometry" />
+          <mxGeometry x="120" y="145" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGHmsoEzZUXp4E6o5UlO-6" target="yGHmsoEzZUXp4E6o5UlO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-8" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="259" y="117" width="50" height="30" as="geometry" />
+          <mxGeometry x="259" y="114" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-9" value="微服务层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="207" width="280" height="80" as="geometry" />
