@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-18" value="RESTful API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="177" width="90" height="30" as="geometry" />
+          <mxGeometry x="259" y="177" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
