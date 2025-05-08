@@ -19,6 +19,9 @@
         <mxCell id="CZoF9O_A0nI7Pi7XDCCi-3" value="核心框架" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="200" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="CZoF9O_A0nI7Pi7XDCCi-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
