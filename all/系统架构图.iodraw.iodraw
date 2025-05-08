@@ -20,13 +20,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-6" value="负载均衡层（Nginx）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="150" width="280" height="30" as="geometry" />
+          <mxGeometry x="120" y="152" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yGHmsoEzZUXp4E6o5UlO-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGHmsoEzZUXp4E6o5UlO-6" target="yGHmsoEzZUXp4E6o5UlO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="97" as="sourcePoint" />
             <mxPoint x="270" y="60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yGHmsoEzZUXp4E6o5UlO-8" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="117" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
