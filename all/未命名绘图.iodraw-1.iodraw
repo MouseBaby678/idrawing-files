@@ -5,13 +5,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oz7XInGBsll9SdijLA2c-1" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="-1" y="63" width="160" relative="1" as="geometry">
             <mxPoint x="330" y="280" as="sourcePoint" />
             <mxPoint x="490" y="280" as="targetPoint" />
+            <mxPoint x="-20" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oz7XInGBsll9SdijLA2c-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="250" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="210" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
