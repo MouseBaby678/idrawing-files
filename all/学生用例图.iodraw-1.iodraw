@@ -76,7 +76,7 @@
         <mxCell id="oz7XInGBsll9SdijLA2c-21" value="创建试题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="169" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oz7XInGBsll9SdijLA2c-22" value="进行考试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oz7XInGBsll9SdijLA2c-22" value="发起考试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="197" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oz7XInGBsll9SdijLA2c-23" value="查看成绩" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
