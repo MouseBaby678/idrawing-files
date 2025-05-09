@@ -109,8 +109,8 @@
             <mxPoint x="334" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFAjdbKVfcDLUES9hCT-4" value="创建班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="120" width="70" height="20" as="geometry" />
+        <mxCell id="FzFAjdbKVfcDLUES9hCT-4" value="分享班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="140" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
