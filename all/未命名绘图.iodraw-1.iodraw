@@ -7,11 +7,11 @@
         <mxCell id="eHq6lxBR_Y_nFYYTXQdY-1" value="在线考试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-4" value="在线考试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-4" value="教师端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eHq6lxBR_Y_nFYYTXQdY-5" value="在线考试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="300" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="319" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
