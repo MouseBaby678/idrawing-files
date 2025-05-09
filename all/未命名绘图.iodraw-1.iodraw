@@ -74,7 +74,7 @@
         <mxCell id="eHq6lxBR_Y_nFYYTXQdY-18" value="学校认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="281" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-19" value="班级管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-19" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="311" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eHq6lxBR_Y_nFYYTXQdY-21" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,7 +90,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-24" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-24" value="个人信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
