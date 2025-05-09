@@ -86,7 +86,7 @@
             <mxPoint x="340" y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="310" />
-              <mxPoint x="320" y="260" />
+              <mxPoint x="320" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,6 +95,12 @@
         </mxCell>
         <mxCell id="eHq6lxBR_Y_nFYYTXQdY-25" value="个人信息维护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eHq6lxBR_Y_nFYYTXQdY-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHq6lxBR_Y_nFYYTXQdY-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="300" as="sourcePoint" />
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
