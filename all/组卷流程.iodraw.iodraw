@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="loFDfNMCyTbwtrcVOo5b-18" value="终止条件检查" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="520" width="140" height="60" as="geometry" />
+          <mxGeometry x="150" y="525" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="loFDfNMCyTbwtrcVOo5b-20" value="输出组卷结果" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="614" width="120" height="55" as="geometry" />
@@ -66,7 +66,7 @@
             <mxPoint x="190" y="439" as="sourcePoint" />
             <mxPoint x="240" y="389" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="554" />
+              <mxPoint x="330" y="560" />
               <mxPoint x="330" y="359" />
               <mxPoint x="330" y="223" />
             </Array>
