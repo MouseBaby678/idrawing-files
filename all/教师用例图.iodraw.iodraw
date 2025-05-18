@@ -47,13 +47,13 @@
           <mxGeometry x="324" y="415" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FzFAjdbKVfcDLUES9hCT-9" value="删除课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="166" width="71" height="20" as="geometry" />
+          <mxGeometry x="324" y="166" width="75" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FzFAjdbKVfcDLUES9hCT-10" value="创建课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324" y="140" width="75" height="25" as="geometry" />
         </mxCell>
         <mxCell id="FzFAjdbKVfcDLUES9hCT-12" value="分享班级" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="324" y="196" width="70" height="20" as="geometry" />
+          <mxGeometry x="324" y="196" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FzFAjdbKVfcDLUES9hCT-14" value="班级管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="137" y="160" width="80" height="40" as="geometry" />
